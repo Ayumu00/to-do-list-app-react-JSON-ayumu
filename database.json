@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "id": 5148,
+      "subject": "Going to party",
+      "date": "2023-03-02",
+      "color": "#e1c2fc",
+      "important": true
+    },
+    {
+      "id": 9254,
+      "subject": "Parkour event",
+      "date": "2023-02-27",
+      "color": "#3dafcc",
+      "important": false
+    },
+    {
+      "id": 3800,
+      "subject": "Travel to somewhere",
+      "date": "2023-03-10",
+      "color": "#ace87a",
+      "important": false
+    },
+    {
+      "id": 4309,
+      "subject": "Important Event",
+      "date": "2023-03-15",
+      "color": "#9be281",
+      "important": true
+    }
+  ]
+}
